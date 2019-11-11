@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mjn110\\source\\repos\\myhellow\\myhellow\\myhellow.csproj": {}
+    "C:\\Users\\mjn110\\Documents\\GitHub\\secondRepo\\myhellow\\myhellow.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mjn110\\source\\repos\\myhellow\\myhellow\\myhellow.csproj": {
+    "C:\\Users\\mjn110\\Documents\\GitHub\\secondRepo\\myhellow\\myhellow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mjn110\\source\\repos\\myhellow\\myhellow\\myhellow.csproj",
+        "projectUniqueName": "C:\\Users\\mjn110\\Documents\\GitHub\\secondRepo\\myhellow\\myhellow.csproj",
         "projectName": "myhellow",
-        "projectPath": "C:\\Users\\mjn110\\source\\repos\\myhellow\\myhellow\\myhellow.csproj",
+        "projectPath": "C:\\Users\\mjn110\\Documents\\GitHub\\secondRepo\\myhellow\\myhellow.csproj",
         "packagesPath": "C:\\Users\\mjn110\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mjn110\\source\\repos\\myhellow\\myhellow\\obj\\",
+        "outputPath": "C:\\Users\\mjn110\\Documents\\GitHub\\secondRepo\\myhellow\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

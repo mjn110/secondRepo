@@ -8,6 +8,7 @@ namespace myhellow
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("I'm MJ");
+            Console.WriteLine("I've been successfully commited!");
         }
     }
 }
